@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Alice Rossi",
+        "avatar": "/alice-rossi-avatar.jpg",
+        "rating": 5,
+        "comment": "Questo libro è stato un'autentica gioia da leggere! L'autore ha una scrittura brillante e la trama è avvincente dall'inizio alla fine. Lo consiglio vivamente a tutti gli amanti dei romanzi."
+    },
+    {
+        "id": 2,
+        "name": "Bob Verdi",
+        "avatar": "/bob-verdi-avatar.jpg",
+        "rating": 4,
+        "comment": "Mi è piaciuto molto questo libro. La storia è coinvolgente, anche se ho trovato alcune parti un po' lente. Nel complesso, è un'ottima lettura per rilassarsi."
+    },
+    {
+        "id": 3,
+        "name": "Charlie Neri",
+        "avatar": "/charlie-neri-avatar.jpg",
+        "rating": 3,
+        "comment": "Ho avuto opinioni contrastanti su questo libro. La trama era interessante, ma ho trovato i personaggi un po' piatti. Non è stato il mio preferito."
+    },
+    {
+        "id": 4,
+        "name": "David Gialli",
+        "avatar": "/david-gialli-avatar.jpg",
+        "rating": 5,
+        "comment": "Un capolavoro assoluto! Ho amato ogni pagina di questo libro. La scrittura è magistrale e la storia ha toccato le corde del mio cuore."
+    },
+    {
+        "id": 5,
+        "name": "Emma Bianchi",
+        "avatar": "/emma-bianchi-avatar.jpg",
+        "rating": 4,
+        "comment": "Ho apprezzato molto questo libro. La trama era coinvolgente e i personaggi erano ben sviluppati. È stata una lettura piacevole."
+    },
+    {
+        "id": 6,
+        "name": "Alice Rossi",
+        "avatar": "/alice-rossi-avatar.jpg",
+        "rating": 5,
+        "comment": "Questo libro è stato un'autentica gioia da leggere! L'autore ha una scrittura brillante e la trama è avvincente dall'inizio alla fine. Lo consiglio vivamente a tutti gli amanti dei romanzi."
+    },
+    {
+        "id": 7,
+        "name": "Bob Verdi",
+        "avatar": "/bob-verdi-avatar.jpg",
+        "rating": 4,
+        "comment": "Mi è piaciuto molto questo libro. La storia è coinvolgente, anche se ho trovato alcune parti un po' lente. Nel complesso, è un'ottima lettura per rilassarsi."
+    },
+    {
+        "id": 8,
+        "name": "Charlie Neri",
+        "avatar": "/charlie-neri-avatar.jpg",
+        "rating": 3,
+        "comment": "Ho avuto opinioni contrastanti su questo libro. La trama era interessante, ma ho trovato i personaggi un po' piatti. Non è stato il mio preferito."
+    },
+    {
+        "id": 9,
+        "name": "David Gialli",
+        "avatar": "/david-gialli-avatar.jpg",
+        "rating": 5,
+        "comment": "Un capolavoro assoluto! Ho amato ogni pagina di questo libro. La scrittura è magistrale e la storia ha toccato le corde del mio cuore."
+    },
+    {
+        "id": 10,
+        "name": "Emma Bianchi",
+        "avatar": "/emma-bianchi-avatar.jpg",
+        "rating": 2,
+        "comment": "Ho apprezzato molto questo libro. La trama era coinvolgente e i personaggi erano ben sviluppati. È stata una lettura piacevole."
+    },
+    {
+        "id": 11,
+        "name": "David Gialli",
+        "avatar": "/david-gialli-avatar.jpg",
+        "rating": 5,
+        "comment": "Un capolavoro assoluto! Ho amato ogni pagina di questo libro. La scrittura è magistrale e la storia ha toccato le corde del mio cuore."
+    },
+    {
+        "id": 12,
+        "name": "Emma Bianchi",
+        "avatar": "/emma-bianchi-avatar.jpg",
+        "rating": 5,
+        "comment": "ok è stao abbastanza interessante per"
+    },
+    {
+        "id": 13,
+        "name": "Emma Bianchi",
+        "avatar": "/emma-bianchi-avatar.jpg",
+        "rating": 1,
+        "comment": "ok è stao abbastanza interessante per"
+    },
+    {
+        "id": 14,
+        "name": "Emma Bianchi",
+        "avatar": "/emma-bianchi-avatar.jpg",
+        "rating": 1,
+        "comment": "ok è stao abbastanza interessante per"
+    }
+]
